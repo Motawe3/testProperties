@@ -1,5 +1,5 @@
-2/2/2021 3:19:34 PM: New Session Started
-2/2/2021 3:19:34 PM: Name: _BaseColorType: ColorFloat: 0Color : RGBA(1.000, 1.000, 1.000, 1.000)Int : 0vector : (1.0, 1.0, 1.0, 1.0)
+2/2/2021 3:18:51 PM: New Session Started
+2/2/2021 3:18:51 PM: Name: _BaseColorType: ColorFloat: 0Color : RGBA(1.000, 1.000, 1.000, 1.000)Int : 0vector : (1.0, 1.0, 1.0, 1.0)
 Name: _BaseColorMapType: TexEnvFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 Name: _BaseColorMap_MipInfoType: VectorFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 Name: _MetallicType: RangeFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
@@ -156,8 +156,8 @@ Name: _DiffusionProfileType: FloatFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.00
 Name: _DiffusionProfileAssetType: VectorFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 Name: _DiffusionProfileHashType: FloatFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 
-2/2/2021 3:19:34 PM: New Session Started
-2/2/2021 3:19:34 PM: Name: _BaseColorType: ColorFloat: 0Color : RGBA(1.000, 1.000, 1.000, 1.000)Int : 0vector : (1.0, 1.0, 1.0, 1.0)
+2/2/2021 3:18:52 PM: New Session Started
+2/2/2021 3:18:52 PM: Name: _BaseColorType: ColorFloat: 0Color : RGBA(1.000, 1.000, 1.000, 1.000)Int : 0vector : (1.0, 1.0, 1.0, 1.0)
 Name: _BaseColorMapType: TexEnvFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 Name: _BaseColorMap_MipInfoType: VectorFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 Name: _MetallicType: RangeFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
@@ -269,7 +269,7 @@ Name: _CullModeForwardType: FloatFloat: 2Color : RGBA(0.000, 0.000, 0.000, 0.000
 Name: _TransparentCullModeType: FloatFloat: 2Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 2vector : (0.0, 0.0, 0.0, 0.0)
 Name: _ZTestDepthEqualForOpaqueType: FloatFloat: 4Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 4vector : (0.0, 0.0, 0.0, 0.0)
 Name: _ZTestModeDistortionType: FloatFloat: 4Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 4vector : (0.0, 0.0, 0.0, 0.0)
-Name: _ZTestGBufferType: FloatFloat: 3Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 3vector : (0.0, 0.0, 0.0, 0.0)
+Name: _ZTestGBufferType: FloatFloat: 4Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 4vector : (0.0, 0.0, 0.0, 0.0)
 Name: _ZTestTransparentType: FloatFloat: 4Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 4vector : (0.0, 0.0, 0.0, 0.0)
 Name: _EnableFogOnTransparentType: FloatFloat: 1Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 1vector : (0.0, 0.0, 0.0, 0.0)
 Name: _EnableBlendModePreserveSpecularLightingType: FloatFloat: 1Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 1vector : (0.0, 0.0, 0.0, 0.0)
@@ -306,7 +306,7 @@ Name: _UVMappingMaskEmissiveType: ColorFloat: 0Color : RGBA(1.000, 0.000, 0.000,
 Name: _EmissionColorType: ColorFloat: 0Color : RGBA(1.000, 1.000, 1.000, 1.000)Int : 0vector : (1.0, 1.0, 1.0, 1.0)
 Name: _MainTexType: TexEnvFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 Name: _ColorType: ColorFloat: 0Color : RGBA(1.000, 1.000, 1.000, 1.000)Int : 0vector : (1.0, 1.0, 1.0, 1.0)
-Name: _CutoffType: RangeFloat: 0.1Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
+Name: _CutoffType: RangeFloat: 0.183Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
 Name: _SupportDecalsType: FloatFloat: 1Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 1vector : (0.0, 0.0, 0.0, 0.0)
 Name: _ReceivesSSRType: FloatFloat: 1Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 1vector : (0.0, 0.0, 0.0, 0.0)
 Name: _AddPrecomputedVelocityType: FloatFloat: 0Color : RGBA(0.000, 0.000, 0.000, 0.000)Int : 0vector : (0.0, 0.0, 0.0, 0.0)
